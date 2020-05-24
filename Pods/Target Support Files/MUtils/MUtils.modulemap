@@ -1,0 +1,6 @@
+framework module MUtils {
+  umbrella header "MUtils-umbrella.h"
+
+  export *
+  module * { export * }
+}
